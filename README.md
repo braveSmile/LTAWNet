@@ -5,15 +5,15 @@
 
 网络概览  
 This is an overview of the network
-![](media\pipeline.png)
+![](.\media\pipeline.png)
 
 KITTI数据集上的结果：  
 Fine-tuned result on dataset of KITTI:
-![](media\KITTI2015IMAGE.png)
+![](.\media\KITTI2015IMAGE.png)
 
 仅在KITTI数据上训练时泛化到街道场景  
 Generalizes to street scenes when trained on KITTI data only:
-![](media\street_scenes.png)
+![](.\media\street_scenes.png)
 
 
 ## 介绍 Introduction
